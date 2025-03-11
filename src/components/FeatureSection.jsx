@@ -4,13 +4,12 @@ const FeatureSection = () => {
     <section class="main-fe">
       <div class="main-fe1">
         <div class="hed1">
-            <h3>Features
-            </h3>
-            </div>
-        <div class="hed2">
+            <h3>Features</h3>
+          </div>
+         <div class="hed2">
          <p>Analytics that feels like it’s from the future</p>
-        </div>
-        <div class="hed3">
+         </div>
+         <div class="hed3">
          <p>Powerful, self-serve product and growth analytics to help you convert, engage, and retain more users. Trusted by over 4,000 startups.</p>
         </div>
      </div>

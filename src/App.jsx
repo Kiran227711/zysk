@@ -12,7 +12,7 @@ import BlogSection from "./components/BlogSection";
 import Footer from "./components/Footer";
 const App = () => {
   return (
-    <CartProvider>
+    <>
     <Navbar />
     <HeroSection/>
     <Buttons/>
@@ -24,7 +24,7 @@ const App = () => {
     <BlogSection/>
     <JoiningSection/>
     <Footer/>
-    </CartProvider>
+    </>
   );
 };
 
